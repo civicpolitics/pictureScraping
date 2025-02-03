@@ -6,7 +6,8 @@
     "start": "bun run index.ts"
   },
   "devDependencies": {
-    "@types/bun": "latest"
+    "@types/bun": "latest",
+    "@types/cheerio": "^0.22.35"
   },
   "peerDependencies": {
     "typescript": "^5.0.0"
