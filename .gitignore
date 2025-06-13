@@ -173,3 +173,11 @@ dist
 
 # Finder (MacOS) folder config
 .DS_Store
+
+# Large GeoJSON files
+NYGeojsons/state/NYS_CitiesandTown_Boundaries.geojson
+*.geojson
+!NYGeojsons/federal/NY_Congressional_Districts.geojson
+!NYGeojsons/state/NYS_Assembly_Districts.geojson
+!NYGeojsons/state/NYS_Senate_Districts.geojson
+!NYGeojsons/city/NYC_Community_Districts.geojson
