@@ -1,0 +1,602 @@
+[
+    {
+        "name": "George Alvarez",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/078/headshot/078.jpg?hst=1672564700"
+    },
+    {
+        "name": "Khaleel Anderson",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/031/headshot/031.jpg?hst=1668023367"
+    },
+    {
+        "name": "Joe Angelino",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/121/headshot/121.jpg?hst=1660074724"
+    },
+    {
+        "name": "Andrea K. Bailey",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/133/headshot/133.jpg?hst=1735577229"
+    },
+    {
+        "name": "William A. Barclay",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/120/headshot/120.jpg?hst=1660074706"
+    },
+    {
+        "name": "Didi Barrett",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/106/headshot/106.jpg?hst=1660074414"
+    },
+    {
+        "name": "Anil Beephan Jr.",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/105/headshot/105.jpg?hst=1672566071"
+    },
+    {
+        "name": "Scott H. Bendett",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/107/headshot/107.jpg?hst=1672572327"
+    },
+    {
+        "name": "Michael Benedetto",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/082/headshot/082.jpg?hst=1660074060"
+    },
+    {
+        "name": "Sam Berger",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/027/headshot/027.jpg?hst=1695676852"
+    },
+    {
+        "name": "Rodneyse Bichotte Hermelyn",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/042/headshot/042.jpg?hst=1660073454"
+    },
+    {
+        "name": "Ken Blankenbush",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/117/headshot/117.jpg?hst=1709752339"
+    },
+    {
+        "name": "Jake Blumencranz",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/015/headshot/015.jpg?hst=1687293560"
+    },
+    {
+        "name": "Paul A. Bologna",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/144/headshot/144.jpg?hst=1735578439"
+    },
+    {
+        "name": "Alex Bores",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/073/headshot/073.jpg?hst=1737478057"
+    },
+    {
+        "name": "Karl Brabenec",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/098/headshot/098.jpg?hst=1660074303"
+    },
+    {
+        "name": "Edward C. Braunstein",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/026/headshot/026.jpg?hst=1660073175"
+    },
+    {
+        "name": "Harry B. Bronson",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/138/headshot/138.jpg?hst=1693399979"
+    },
+    {
+        "name": "Alec Brook-Krasny",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/046/headshot/046.jpg?hst=1672572717"
+    },
+    {
+        "name": "Eric Ari Brown",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/020/headshot/020.jpg?hst=1660073031"
+    },
+    {
+        "name": "Keith Brown",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/012/headshot/012.jpg?hst=1660072856"
+    },
+    {
+        "name": "Chris Burdick",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/093/headshot/093.jpg?hst=1706043566"
+    },
+    {
+        "name": "Pat Burke",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/142/headshot/142.jpg?hst=1738687578"
+    },
+    {
+        "name": "Noah Burroughs",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/018/headshot/018.jpg?hst=1735668193"
+    },
+    {
+        "name": "Marianne Buttenschon",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/119/headshot/119.jpg?hst=1684937708"
+    },
+    {
+        "name": "Patrick J. Carroll",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/096/headshot/096.jpg?hst=1733944078"
+    },
+    {
+        "name": "Robert C. Carroll",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/044/headshot/044.jpg?hst=1672953348"
+    },
+    {
+        "name": "Monique Chandler-Waterman",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/058/headshot/058.jpg?hst=1660073695"
+    },
+    {
+        "name": "Lester Chang",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/049/headshot/049.jpg?hst=1687897219"
+    },
+    {
+        "name": "Patrick J. Chludzinski",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/143/headshot/143.jpg?hst=1735582513"
+    },
+    {
+        "name": "Sarah Clark",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/136/headshot/136.jpg?hst=1660074877"
+    },
+    {
+        "name": "William Colton",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/047/headshot/047.jpg?hst=1660073520"
+    },
+    {
+        "name": "William Conrad",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/140/headshot/140.jpg?hst=1660074930"
+    },
+    {
+        "name": "Vivian E. Cook",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/032/headshot/032.jpg?hst=1660073288"
+    },
+    {
+        "name": "Catalina Cruz",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/039/headshot/039.jpg?hst=1683131280"
+    },
+    {
+        "name": "Brian A. Cunningham",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/043/headshot/043.jpg?hst=1660073468"
+    },
+    {
+        "name": "Landon Dais",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/077/headshot/077.jpg?hst=1707948419"
+    },
+    {
+        "name": "Maritza Davila",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/053/headshot/053.jpg?hst=1660073605"
+    },
+    {
+        "name": "Manny De Los Santos",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/072/headshot/072.jpg?hst=1715796702"
+    },
+    {
+        "name": "Joe DeStefano",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/003/headshot/003.jpg?hst=1724174732"
+    },
+    {
+        "name": "Erik M. Dilan",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/054/headshot/054.jpg?hst=1660073635"
+    },
+    {
+        "name": "Jeffrey Dinowitz",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/081/headshot/081.jpg?hst=1708021210"
+    },
+    {
+        "name": "David DiPietro",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/147/headshot/147.jpg?hst=1660075005"
+    },
+    {
+        "name": "Michael Durso",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/009/headshot/009.jpg?hst=1660072763"
+    },
+    {
+        "name": "Christopher Eachus",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/099/headshot/099.jpg?hst=1672570603"
+    },
+    {
+        "name": "Simcha Eichenstein",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/048/headshot/048.jpg?hst=1660073541"
+    },
+    {
+        "name": "Harvey Epstein",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/074/headshot/074.jpg?hst=1711395485"
+    },
+    {
+        "name": "Charles D. Fall",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/061/headshot/061.jpg?hst=1660073777"
+    },
+    {
+        "name": "Michael J. Fitzpatrick",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/008/headshot/008.jpg?hst=1660072739"
+    },
+    {
+        "name": "Phara Souffrant Forrest",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/057/headshot/057.jpg?hst=1660073678"
+    },
+    {
+        "name": "Christopher S. Friend",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/124/headshot/124.jpg?hst=1660074744"
+    },
+    {
+        "name": "Emily Gallagher",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/050/headshot/050.jpg?hst=1679601880"
+    },
+    {
+        "name": "Jeff Gallahan",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/131/headshot/131.jpg?hst=1660074826"
+    },
+    {
+        "name": "Jarett Gandolfo",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/007/headshot/007.jpg?hst=1660072714"
+    },
+    {
+        "name": "Edward Gibbs",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/068/headshot/068.jpg?hst=1662988090"
+    },
+    {
+        "name": "Jodi Giglio",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/002/headshot/002.jpg?hst=1668622850"
+    },
+    {
+        "name": "Deborah J. Glick",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/066/headshot/066.jpg?hst=1660073838"
+    },
+    {
+        "name": "Jessica González-Rojas",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/034/headshot/034.jpg?hst=1660073319"
+    },
+    {
+        "name": "Scott Gray",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/116/headshot/116.jpg?hst=1672565401"
+    },
+    {
+        "name": "Judy Griffin",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/021/headshot/021.jpg?hst=1734983719"
+    },
+    {
+        "name": "Stephen Hawley",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/139/headshot/139.jpg?hst=1660074922"
+    },
+    {
+        "name": "Carl E. Heastie",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/083/headshot/083.jpg?hst=1660074070"
+    },
+    {
+        "name": "Andrew Hevesi",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/028/headshot/028.jpg?hst=1660073205"
+    },
+    {
+        "name": "Larinda C. Hooks",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/035/headshot/035.jpg?hst=1735581816"
+    },
+    {
+        "name": "Pamela J. Hunter",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/128/headshot/128.jpg?hst=1660074792"
+    },
+    {
+        "name": "Alicia Hyndman",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/029/headshot/029.jpg?hst=1713991672"
+    },
+    {
+        "name": "Chantel Jackson",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/079/headshot/079.jpg?hst=1660074007"
+    },
+    {
+        "name": "Jonathan G. Jacobson",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/104/headshot/104.jpg?hst=1660074380"
+    },
+    {
+        "name": "Josh Jensen",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/134/headshot/134.jpg?hst=1660074858"
+    },
+    {
+        "name": "Billy Jones",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/115/headshot/115.jpg?hst=1660074656"
+    },
+    {
+        "name": "Rebecca Kassay",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/004/headshot/004.jpg?hst=1734551783"
+    },
+    {
+        "name": "Paula Elaine Kay",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/100/headshot/100.jpg?hst=1738078997"
+    },
+    {
+        "name": "Anna Kelles",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/125/headshot/125.jpg?hst=1660074752"
+    },
+    {
+        "name": "Ron Kim",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/040/headshot/040.jpg?hst=1697219697"
+    },
+    {
+        "name": "Micah C. Lasher",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/069/headshot/069.jpg?hst=1734540319"
+    },
+    {
+        "name": "Charles D. Lavine",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/013/headshot/013.jpg?hst=1731706506"
+    },
+    {
+        "name": "Grace Lee",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/065/headshot/065.jpg?hst=1733250103"
+    },
+    {
+        "name": "John Lemondes",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/126/headshot/126.jpg?hst=1660074773"
+    },
+    {
+        "name": "Dana Levenberg",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/095/headshot/095.jpg?hst=1680123726"
+    },
+    {
+        "name": "Nikki Lucas",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/060/headshot/060.jpg?hst=1660073727"
+    },
+    {
+        "name": "Jennifer Lunsford",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/135/headshot/135.jpg?hst=1675087664"
+    },
+    {
+        "name": "Donna A. Lupardo",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/123/headshot/123.jpg?hst=1736189886"
+    },
+    {
+        "name": "William B. Magnarelli",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/129/headshot/129.jpg?hst=1660074804"
+    },
+    {
+        "name": "Brian Maher",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/101/headshot/101.jpg?hst=1672566660"
+    },
+    {
+        "name": "Zohran Mamdani",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/036/headshot/036.jpg?hst=1660073357"
+    },
+    {
+        "name": "Brian Manktelow",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/130/headshot/130.jpg?hst=1660074813"
+    },
+    {
+        "name": "John T. McDonald III",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/108/headshot/108.jpg?hst=1660074489"
+    },
+    {
+        "name": "David G. McDonough",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/014/headshot/014.jpg?hst=1660072904"
+    },
+    {
+        "name": "Karen McMahon",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/146/headshot/146.jpg?hst=1660074994"
+    },
+    {
+        "name": "Demond Meeks",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/137/headshot/137.jpg?hst=1660074888"
+    },
+    {
+        "name": "John Mikulin",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/017/headshot/017.jpg?hst=1709151534"
+    },
+    {
+        "name": "Brian Miller",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/122/headshot/122.jpg?hst=1660074350"
+    },
+    {
+        "name": "Marcela Mitaynes",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/051/headshot/051.jpg?hst=1660073582"
+    },
+    {
+        "name": "Andrew M. Molitor",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/150/headshot/150.jpg?hst=1735582286"
+    },
+    {
+        "name": "Angelo Morinello",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/145/headshot/145.jpg?hst=1660074985"
+    },
+    {
+        "name": "Daniel J. Norber",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/016/headshot/016.jpg?hst=1735583124"
+    },
+    {
+        "name": "Michael Novakhov",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/045/headshot/045.jpg?hst=1692284114"
+    },
+    {
+        "name": "Kwani O'Pharrow",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/011/headshot/011.jpg?hst=1734109494"
+    },
+    {
+        "name": "Steven Otis",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/091/headshot/091.jpg?hst=1661545963"
+    },
+    {
+        "name": "Philip A. Palmesano",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/132/headshot/132.jpg?hst=1660074839"
+    },
+    {
+        "name": "Amy Paulin",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/088/headshot/088.jpg?hst=1673464404"
+    },
+    {
+        "name": "Crystal D. Peoples-Stokes",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/141/headshot/141.jpg?hst=1660074942"
+    },
+    {
+        "name": "Stacey Pheffer Amato",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/023/headshot/023.jpg?hst=1720040512"
+    },
+    {
+        "name": "Samuel Pirozzolo",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/063/headshot/063.jpg?hst=1672573792"
+    },
+    {
+        "name": "J. Gary Pretlow",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/089/headshot/089.jpg?hst=1660074183"
+    },
+    {
+        "name": "Edward P. Ra",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/019/headshot/019.jpg?hst=1711637487"
+    },
+    {
+        "name": "Steven Raga",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/030/headshot/030.jpg?hst=1672571626"
+    },
+    {
+        "name": "Jenifer Rajkumar",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/038/headshot/038.jpg?hst=1660073381"
+    },
+    {
+        "name": "Phil Ramos",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/006/headshot/006.jpg?hst=1660072681"
+    },
+    {
+        "name": "Michael Reilly",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/062/headshot/062.jpg?hst=1737047383"
+    },
+    {
+        "name": "Karines Reyes",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/087/headshot/087.jpg?hst=1660074160"
+    },
+    {
+        "name": "Jonathan Rivera",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/149/headshot/149.jpg?hst=1660075024"
+    },
+    {
+        "name": "Gabriella A. Romero",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/109/headshot/109.jpg?hst=1737755654"
+    },
+    {
+        "name": "Linda B. Rosenthal",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/067/headshot/067.jpg?hst=1660073851"
+    },
+    {
+        "name": "Nily D. Rozic",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/025/headshot/025.jpg?hst=1660073163"
+    },
+    {
+        "name": "Angelo Santabarbara",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/111/headshot/111.jpg?hst=1660074600"
+    },
+    {
+        "name": "Nader J. Sayegh",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/090/headshot/090.jpg?hst=1660074194"
+    },
+    {
+        "name": "Tommy John Schiavoni",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/001/headshot/001.jpg?hst=1734100450"
+    },
+    {
+        "name": "Rebecca Seawright",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/076/headshot/076.jpg?hst=1660073966"
+    },
+    {
+        "name": "Joe Sempolinski",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/148/headshot/148.jpg?hst=1735582753"
+    },
+    {
+        "name": "Amanda Septimo",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/084/headshot/084.jpg?hst=1660074086"
+    },
+    {
+        "name": "Maryjane Shimsky",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/092/headshot/092.jpg?hst=1672578886"
+    },
+    {
+        "name": "Sarahana Shrestha",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/103/headshot/103.jpg?hst=1672577142"
+    },
+    {
+        "name": "Jo Anne Simon",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/052/headshot/052.jpg?hst=1660073592"
+    },
+    {
+        "name": "Tony Simone",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/075/headshot/075.jpg?hst=1672577505"
+    },
+    {
+        "name": "Matthew Simpson",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/114/headshot/114.jpg?hst=1660074645"
+    },
+    {
+        "name": "Matthew Slater",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/094/headshot/094.jpg?hst=1672574790"
+    },
+    {
+        "name": "Douglas M. Smith",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/005/headshot/005.jpg?hst=1660072659"
+    },
+    {
+        "name": "Robert Smullen",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/118/headshot/118.jpg?hst=1660074686"
+    },
+    {
+        "name": "Michaelle C. Solages",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/022/headshot/022.jpg?hst=1687461274"
+    },
+    {
+        "name": "Phil Steck",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/110/headshot/110.jpg?hst=1660074591"
+    },
+    {
+        "name": "Steve Stern",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/010/headshot/010.jpg?hst=1660072786"
+    },
+    {
+        "name": "Al Stirpe",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/127/headshot/127.jpg?hst=1660074782"
+    },
+    {
+        "name": "Chris Tague",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/102/headshot/102.jpg?hst=1660074360"
+    },
+    {
+        "name": "Michael Tannousis",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/064/headshot/064.jpg?hst=1660073815"
+    },
+    {
+        "name": "Yudelka Tapia",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/086/headshot/086.jpg?hst=1660074111"
+    },
+    {
+        "name": "Al Taylor",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/071/headshot/071.jpg?hst=1699477303"
+    },
+    {
+        "name": "Emérita Torres",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/085/headshot/085.jpg?hst=1733944111"
+    },
+    {
+        "name": "Claire Valdez",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/037/headshot/037.jpg?hst=1734551759"
+    },
+    {
+        "name": "Clyde Vanel",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/033/headshot/033.jpg?hst=1699478237"
+    },
+    {
+        "name": "Latrice Walker",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/055/headshot/055.jpg?hst=1660073650"
+    },
+    {
+        "name": "Mary Beth Walsh",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/112/headshot/112.jpg?hst=1660074618"
+    },
+    {
+        "name": "David I. Weprin",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/024/headshot/024.jpg?hst=1660073135"
+    },
+    {
+        "name": "Aron Wieder",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/097/headshot/097.jpg?hst=1734445082"
+    },
+    {
+        "name": "Jaime Williams",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/059/headshot/059.jpg?hst=1660073711"
+    },
+    {
+        "name": "Carrie Woerner",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/113/headshot/113.jpg?hst=1660074635"
+    },
+    {
+        "name": "Jordan J.G. Wright",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/070/headshot/070.jpg?hst=1734109537"
+    },
+    {
+        "name": "Kalman Yeger",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/041/headshot/041.jpg?hst=1735832405"
+    },
+    {
+        "name": "John Zaccaro Jr.",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/080/headshot/080.jpg?hst=1672563867"
+    },
+    {
+        "name": "Stefani Zinerman",
+        "imageUrl": "https://nyassembly.gov/write/upload/member_files/056/headshot/056.jpg?hst=1709755583"
+    }
+]

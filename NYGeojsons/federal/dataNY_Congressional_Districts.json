@@ -1,0 +1,681 @@
+[
+  {
+    "OBJECTID": 1,
+    "district": 1,
+    "name": "Nick LaLota",
+    "office": "U.S. House of Representatives",
+    "party": "Republican",
+    "phone": "(202) 225-3826",
+    "email": "https://lalota.house.gov/contact",
+    "distPhone": "(631) 289-1097",
+    "address": "122 Cannon House Office Building, Washington, DC 20515",
+    "nyOffice": {
+      "address": "515 Hauppauge Road, Suite 3B, Hauppauge, NY  11788",
+      "phone": "(631) 289-1097"
+    },
+    "nyOffice2": {
+      "address": "Rocky Point VFW Post 6249, 109 King Road, Rocky Point, NY  11778",
+      "phone": "(631) 289-1097"
+    },
+    "dcOffice": {
+      "address": "122 Cannon House Office Building, Washington, DC 20515",
+      "phone": "(202) 225-3826"
+    },
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/civic-1776.firebasestorage.app/o/images%2FnickLalota.webp?alt=media&token=24a03f68-b78b-47ec-88df-9e996b2b2f88",
+    "website": "https://lalota.house.gov"
+  },
+  {
+    "OBJECTID": 2,
+    "district": 2,
+    "name": "Andrew Garbarino",
+    "office": "U.S. House of Representatives",
+    "party": "Republican",
+    "phone": "(202) 225-7896",
+    "email": "https://garbarino.house.gov/contact",
+    "distPhone": "(631) 541-4225",
+    "address": "2344 Rayburn House Office Building, Washington, DC 20515",
+    "nyOffice": {
+      "address": "31 Oak Street Suite 20, Patchogue, NY  11772",
+      "phone": "(631) 541-4225"
+    },
+    "dcOffice": {
+      "address": "2344 Rayburn House Office Building, Washington, DC 20515",
+      "phone": "(202) 225-7896",
+      "fax": "(202) 226-2279"
+    },
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/civic-1776.firebasestorage.app/o/images%2FandrewGarbarino.webp?alt=media&token=83f21ad8-48da-4e0e-bc56-e63c9b4ae807",
+    "website": "https://garbarino.house.gov"
+  },
+  {
+    "OBJECTID": 3,
+    "district": 3,
+    "name": "Thomas Suozzi",
+    "office": "U.S. House of Representatives",
+    "party": "Democratic",
+    "phone": "(202) 225-3335",
+    "email": "https://suozzi.house.gov/contact",
+    "distPhone": "(718) 631-0400",
+    "address": "203 Cannon House Office Building, Washington, DC 20515",
+    "nyOffice": {
+      "address": "51 Glen Street, Second Floor, Glen Cove, NY  11542",
+      "phone": "(516) 861-1070"
+    },
+    "nyOffice2": {
+      "address": "Douglaston District Office, 242-09 Northern Boulevard, Douglaston, NY  11363",
+      "phone": "(718) 631-0400"
+    },
+    "dcOffice": {
+      "address": "203 Cannon House Office Building, Washington, DC 20515",
+      "phone": "(202) 225-3335"
+    },
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/civic-1776.firebasestorage.app/o/images%2FthomasSuozzi.webp?alt=media&token=b602b247-bbe8-4a87-83de-b15d5aa237a4",
+    "website": "https://suozzi.house.gov"
+  },
+  {
+    "OBJECTID": 4,
+    "district": 4,
+    "name": "Laura Gillen",
+    "office": "U.S. House of Representatives",
+    "party": "Democratic",
+    "phone": "(202) 225-5516",
+    "email": "https://gillen.house.gov/address_authentication?form=/contact/email-me",
+    "distPhone": "(516) 739-3008",
+    "address": "428 Cannon House Office Building, Washington, DC 20515",
+    "nyOffice": {
+      "address": "229 7th Street, Suite 102, Garden City, NY  11530",
+      "phone": "(516) 739-3008"
+    },
+    "dcOffice": {
+      "address": "428 Cannon House Office Building, Washington, DC 20515",
+      "phone": "(202) 225-5516"
+    },
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/civic-1776.firebasestorage.app/o/images%2FlauraGillen.webp?alt=media&token=3a38e01b-ce88-4fdd-9367-8efa82a52b95",
+    "website": "https://gillen.house.gov"
+  },
+  {
+    "OBJECTID": 5,
+    "district": 5,
+    "name": "Gregory Meeks",
+    "office": "U.S. House of Representatives",
+    "party": "Democratic",
+    "phone": "(202) 225-3461",
+    "email": "https://meeks.house.gov/address_authentication?form=/contact",
+    "distPhone": "(718) 725-6000",
+    "address": "2310 Rayburn House Office Building, Washington, DC 20515",
+    "nyOffice": {
+      "address": "153-01 Jamaica Avenue, 2nd floor, Jamaica, NY  11432",
+      "phone": "(718) 725-6000",
+      "fax": "(718) 725-9868"
+    },
+    "nyOffice2": {
+      "address": "67-12 Rockaway Beach Boulevard, Arverne, NY  11692",
+      "phone": "(347) 230-4032",
+      "fax": "(347) 230-4045"
+    },
+    "dcOffice": {
+      "address": "2310 Rayburn House Office Building, Washington, DC 20515",
+      "phone": "(202) 225-3461",
+      "fax": "(202) 226-4169"
+    },
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/civic-1776.firebasestorage.app/o/images%2FgregoryMeeks.webp?alt=media&token=a4b05e22-b1dd-4092-9943-e6d31ac04cf8",
+    "website": "https://meeks.house.gov"
+  },
+  {
+    "OBJECTID": 6,
+    "district": 6,
+    "name": "Grace Meng",
+    "office": "U.S. House of Representatives",
+    "party": "Democratic",
+    "phone": "(202) 225-2601",
+    "email": "https://meng.house.gov/contact",
+    "distPhone": "(718) 358-6364",
+    "address": "2468 Rayburn Office Building, Washington, DC 20515",
+    "nyOffice": {
+      "address": "40-13 159th St, STE A, Flushing, NY  11358",
+      "phone": "(718) 358-6364",
+      "fax": "(718) 445-7868"
+    },
+    "nyOffice2": {
+      "address": "118-35 Queens Blvd, STE 900, Forest Hills, NY  11375",
+      "hours": "By appointment only"
+    },
+    "dcOffice": {
+      "address": "2468 Rayburn Office Building, Washington, DC  20515",
+      "phone": "(202) 225-2601",
+      "fax": "(202) 225-1589"
+    },
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/civic-1776.firebasestorage.app/o/images%2FgraceMeng.webp?alt=media&token=91184f42-506d-42d3-8902-9701ee749fc4",
+    "website": "https://meng.house.gov"
+  },
+  {
+    "OBJECTID": 7,
+    "district": 7,
+    "name": "Nydia Velázquez",
+    "office": "U.S. House of Representatives",
+    "party": "Democratic",
+    "phone": "(202) 225-2361",
+    "email": "https://velazquez.house.gov/contact/email",
+    "distPhone": "(718) 599-3658",
+    "address": "2302 Rayburn House Office Building, Washington, DC 20515",
+    "nyOffice": {
+      "address": "39-16 47th Avenue, Sunyside, NY  11104",
+      "phone": "(718) 340-6244"
+    },
+    "nyOffice2": {
+      "address": "266 Broadway, Suite 201, Brooklyn, NY  11211",
+      "phone": "(718) 599-3658"
+    },
+    "dcOffice": {
+      "address": "2302 Rayburn House Office Building, Washington, DC 20515",
+      "phone": "(202) 225-2361"
+    },
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/civic-1776.firebasestorage.app/o/images%2FnydiaVelzquez.webp?alt=media&token=ee327cea-a0c3-4d46-94fd-f1322b825a09",
+    "website": "https://velazquez.house.gov"
+  },
+  {
+    "OBJECTID": 8,
+    "district": 8,
+    "name": "Hakeem Jeffries",
+    "office": "U.S. House of Representatives",
+    "party": "Democratic",
+    "phone": "(202) 225-5936",
+    "email": "https://jeffries.house.gov/contact/email-me",
+    "distPhone": "(718) 373-0033",
+    "address": "2267 Rayburn House Office Building, Washington, DC 20515",
+    "nyOffice": {
+      "address": "55 Hanson Place, Suite 603, Brooklyn, NY 11217",
+      "phone": "(718) 237-2211",
+      "hours": "Monday - Friday, 9:00 AM - 5:00 PM"
+    },
+    "nyOffice2": {
+      "address": "445 Neptune Avenue, 1st Floor, Community Room 2C, Brooklyn, NY 11224",
+      "phone": "(718) 373-0033",
+      "hours": "Monday - Friday, 9:00 AM - 5:00 PM"
+    },
+    "dcOffice": {
+      "address": "2267 Rayburn House Office Building, Washington, DC 20515",
+      "phone": "(202) 225-5936",
+      "hours": "Monday - Friday, 9:00 AM - 5:00 PM"
+    },
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/civic-1776.firebasestorage.app/o/images%2FhakeemJeffries.webp?alt=media&token=128cd5e8-139c-4d22-aaa4-6752b72e35bb",
+    "website": "https://jeffries.house.gov"
+  },
+  {
+    "OBJECTID": 9,
+    "district": 9,
+    "name": "Yvette Clarke",
+    "office": "U.S. House of Representatives",
+    "party": "Democratic",
+    "phone": "(202) 225-6231",
+    "email": "https://clarke.house.gov/contact/email",
+    "distPhone": "(718) 287-1142",
+    "address": "2058 Rayburn House Office Building, Washington, DC 20515",
+    "nyOffice": {
+      "address": "222 Lenox Road, Suites 1 & 2, Brooklyn, NY 11226",
+      "phone": "(718) 287-1142",
+      "fax": "(718) 287-1223"
+    },
+    "dcOffice": {
+      "address": "2058 Rayburn House Office Building, Washington, DC 20515",
+      "phone": "(202) 225-6231",
+      "fax": "(202) 226-0112"
+    },
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/civic-1776.firebasestorage.app/o/images%2FyvetteClarke.webp?alt=media&token=b3e226d8-179a-434b-bce0-9c3d74e1889d",
+    "website": "https://clarke.house.gov"
+  },
+  {
+    "OBJECTID": 10,
+    "district": 10,
+    "name": "Daniel Goldman",
+    "office": "U.S. House of Representatives",
+    "party": "Democratic",
+    "phone": "(202) 225-7944",
+    "email": "https://goldman.house.gov/address_authentication?form=/contact",
+    "distPhone": "(718) 312-7575",
+    "address": "245 Cannon House Office Building, Washington, DC 20515",
+    "nyOffice": {
+      "address": "Ted Weiss Federal Building, 290 Broadway, Suite 291, New York, NY  10007",
+      "phone": "(212) 822-7878"
+    },
+    "nyOffice2": {
+      "address": "Industry City, 254 36 Street, B-329, Brooklyn, NY  11232",
+      "phone": "(718) 312-7575"
+    },
+    "dcOffice": {
+      "address": "245 Cannon House Office Building, Washington, DC 20515",
+      "phone": "(202) 225-7944"
+    },
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/civic-1776.firebasestorage.app/o/images%2FdanielGoldman.webp?alt=media&token=0adce0c6-7c28-469c-a81e-0167bcc888dd",
+    "website": "https://goldman.house.gov"
+  },
+  {
+    "OBJECTID": 11,
+    "district": 11,
+    "name": "Nicole Malliotakis",
+    "office": "U.S. House of Representatives",
+    "party": "Republican",
+    "phone": "(202) 225-3371",
+    "email": "https://malliotakis.house.gov/contact",
+    "distPhone": "(718) 568-2870",
+    "address": "1124 Longworth House Office Building, Washington, DC 20515",
+    "nyOffice": {
+      "address": "1698 Victory Blvd, Suite 2L, Staten Island, NY  10314",
+      "phone": "(718) 568-2870"
+    },
+    "nyOffice2": {
+      "address": "7716 Third Avenue, Brooklyn, NY  11209",
+      "phone": "(718) 306-1620"
+    },
+    "dcOffice": {
+      "address": "1124 Longworth House Office Building, Washington, DC 20515",
+      "phone": "(202) 225-3371"
+    },
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/civic-1776.firebasestorage.app/o/images%2FnicoleMalliotakis.webp?alt=media&token=6655df97-5a83-4cd3-be38-59ac7ebe8745",
+    "website": "https://malliotakis.house.gov"
+  },
+  {
+    "OBJECTID": 12,
+    "district": 12,
+    "name": "Jerrold Nadler",
+    "office": "U.S. House of Representatives",
+    "party": "Democratic",
+    "phone": "(202) 225-5635",
+    "email": "https://nadler.house.gov/contact",
+    "distPhone": "(212) 367-7350",
+    "address": "2132 Rayburn House Office Building, Washington, DC 20515",
+    "nyOffice": {
+      "address": "201 Varick Street, Suite 669, New York, NY 10014",
+      "phone": "(212) 367-7350"
+    },
+    "dcOffice": {
+      "address": "2132 Rayburn House Office Building, Washington, DC 20515",
+      "phone": "(202) 225-5635"
+    },
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/civic-1776.firebasestorage.app/o/images%2FjerroldNadler.webp?alt=media&token=b170f809-0b3e-4c91-9f1c-e6f640f9ab44",
+    "website": "https://nadler.house.gov"
+  },
+  {
+    "OBJECTID": 13,
+    "district": 13,
+    "name": "Adriano Espaillat",
+    "office": "U.S. House of Representatives",
+    "party": "Democratic",
+    "phone": "(202) 225-4365 ",
+    "email": "https://espaillat.house.gov/address_authentication?form=/contact-me",
+    "distPhone": "(646) 740-3632",
+    "address": "2332 Rayburn House Office Building, Washington, DC 20515",
+    "nyOffice": {
+      "address": "3107 Kingsbridge Avenue, Bronx, NY  10463",
+      "phone": "(646) 740-3632",
+      "hours": "By appointment only"
+    },
+    "nyOffice2": {
+      "address": "163 West 125th Street, #508 Harlem State Office Building, New York, NY  10027",
+      "phone": "(212) 663-3900"
+    },
+    "nyOffice3": {
+      "address": "720 West 181st Street, Suite 2, New York, NY  10033",
+      "phone": "(212) 497-5959"
+    },
+    "dcOffice": {
+      "address": "2332 Rayburn House Office Building, Washington, DC 20515",
+      "phone": "(202) 225-4365",
+      "fax": "(202) 226-9731"
+    },
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/civic-1776.firebasestorage.app/o/images%2FadrianoEspaillat.webp?alt=media&token=ef85b82a-0896-4f0a-b3ad-a79c1a588fd6",
+    "website": "https://espaillat.house.gov"
+  },
+  {
+    "OBJECTID": 14,
+    "district": 14,
+    "name": "Alexandria Ocasio-Cortez",
+    "office": "U.S. House of Representatives",
+    "party": "Democratic",
+    "phone": "(202) 225-3965",
+    "email": "https://ocasio-cortez.house.gov/contact",
+    "distPhone": "(718) 662-5970",
+    "address": "250 Cannon House Office Building, Washington, DC 20515",
+    "nyOffice": {
+      "address": "30-83 31st Street, Queens, NY  11102",
+      "phone": "(718) 662-5970",
+      "hours": "By appointment only"
+    },
+    "nyOffice2": {
+      "address": "1231 Lafayette Ave, Suite L-610, Bronx, NY  10474",
+      "phone": "(718) 503-9610",
+      "hours": "Monday - Thursday, 9:00 AM - 5:00 PM"
+    },
+    "dcOffice": {
+      "address": "250 Cannon House Office Building, Washington, DC 20515",
+      "phone": "(202) 225-3965"
+    },
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/civic-1776.firebasestorage.app/o/images%2FalexandriaOcasiocortez.webp?alt=media&token=6aab698e-7d1a-4f98-8ce4-1e6f15987311",
+    "website": "https://ocasio-cortez.house.gov"
+  },
+  {
+    "OBJECTID": 15,
+    "district": 15,
+    "name": "Ritchie Torres",
+    "office": "U.S. House of Representatives",
+    "party": "Democratic",
+    "phone": "(202) 225-4361",
+    "email": "https://ritchietorres.house.gov/contact",
+    "distPhone": "(718) 503-9610",
+    "address": "1414 Longworth House Office Building, Washington, DC 20515",
+    "nyOffice": {
+      "address": "540 E Fordham Rd, Suite 2A, Bronx, NY 10458",
+      "phone": "(718) 503-9610",
+      "hours": "By appointment only"
+    },
+    "dcOffice": {
+      "address": "1414 Longworth House Office Building, Washington, DC 20515",
+      "phone": "(202) 225-4361"
+    },
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/civic-1776.firebasestorage.app/o/images%2FritchieTorres.webp?alt=media&token=92141770-ba04-43ac-8588-afbe215e2458",
+    "website": "https://ritchietorres.house.gov"
+  },
+  {
+    "OBJECTID": 16,
+    "district": 16,
+    "name": "George Latimer",
+    "office": "U.S. House of Representatives",
+    "party": "Democratic",
+    "phone": "(202) 225-2464",
+    "email": "https://latimer.house.gov/contact",
+    "distPhone": null,
+    "address": "1507 Longworth House Office Building, Washington, DC 20515",
+    "nyOffice": {
+      "address": "177 Dreiser Loop, Room 3, Bronx, NY  10475",
+      "phone": "(718) 530-7888"
+    },
+    "nyOffice2": {
+      "address": "222 Mamaroneck Ave, Suite 312, White Plains, NY  10605",
+      "phone": "(914) 323-5550"
+    },
+    "dcOffice": {
+      "address": "1507 Longworth House Office Building, Washington, DC 20515",
+      "phone": "(202) 225-2464"
+    },
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/civic-1776.firebasestorage.app/o/images%2FgeorgeLatimer.webp?alt=media&token=b119e654-1ae5-4e65-8eb8-38e7d6b21bc9",
+    "website": "https://latimer.house.gov"
+  },
+  {
+    "OBJECTID": 17,
+    "district": 17,
+    "name": "Michael Lawler",
+    "office": "U.S. House of Representatives",
+    "party": "Republican",
+    "phone": "(202) 225-6506",
+    "email": "https://lawler.house.gov/contact",
+    "distPhone": "(845) 201-2060",
+    "address": "324 Cannon House Office Building, Washington, DC 20515",
+    "nyOffice": {
+      "address": "One Blue Hill Plaza, Third Floor, P.O. Box 1645, Pearl River, NY 10965",
+      "phone": "(845) 201-2060",
+      "hours": "By appointment only"
+    },
+    "nyOffice2": {
+      "address": "60 McAlpin Ave, Mahopac, NY 10541",
+      "phone": "(845) 743-7130",
+      "hours": "By appointment only"
+    },
+    "dcOffice": {
+      "address": "324 Cannon House Office Building, Washington, DC 20515",
+      "phone": "(202) 225-6506"
+    },
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/civic-1776.firebasestorage.app/o/images%2FmichaelLawler.webp?alt=media&token=f5970a81-0576-4b02-9ed2-133f1ab5357a",
+    "website": "https://lawler.house.gov"
+  },
+  {
+    "OBJECTID": 18,
+    "district": 18,
+    "name": "Pat Ryan",
+    "office": "U.S. House of Representatives",
+    "party": "Democratic",
+    "phone": "(202) 225-5614",
+    "email": "https://patryan.house.gov/address_authentication?form=/contact/email-me",
+    "distPhone": "(845) 443-2930",
+    "address": "1708 Longworth House Office Building, Washington, DC 20515",
+    "nyOffice": {
+      "address": "29 N Hamilton Street, Suites 112 and 113, Poughkeepsie, NY  12601",
+      "phone": "(845) 443-2930"
+    },
+    "nyOffice2": {
+      "address": "245 Liberty Street, Newburgh, NY  12550",
+      "phone": "(845) 275-6390",
+      "hours": "By appointment only"
+    },
+    "ny_office_3": {
+      "address": "20 Broadway, Second Floor, Kingston, NY  12401",
+      "phone": "(845) 443-2980",
+      "hours": "By appointment only"
+    },
+    "dcOffice": {
+      "address": "1708 Longworth House Office Building, Washington, DC 20515",
+      "phone": "(202) 225-5614"
+    },
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/civic-1776.firebasestorage.app/o/images%2FpatRyan.webp?alt=media&token=938cb714-425d-4348-bf1f-c131b7b69bc7",
+    "website": "https://patryan.house.gov/"
+  },
+  {
+    "OBJECTID": 19,
+    "district": 19,
+    "name": "Josh Riley",
+    "office": "U.S. House of Representatives",
+    "party": "Democratic",
+    "phone": "(202) 225-5441",
+    "email": "https://riley.house.gov/contact",
+    "distPhone": null,
+    "address": "128 Cannon House Office Building, Washington, DC 20515",
+    "nyOffice": {
+      "address": "49 Court Street, Suite 210, Binghamton, NY  13901",
+      "phone": "(607) 242-0200"
+    },
+    "nyOffice2": {
+      "address": "49 Gilfeather Park Road, Unit 1, Leeds, NY  12451",
+      "phone": "(518) 625-2100",
+      "hours": "By appointment only"
+    },
+    "dcOffice": {
+      "address": "128 Cannon House Office Building, Washington, DC 20515",
+      "phone": "(202) 225-5441"
+    },
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/civic-1776.firebasestorage.app/o/images%2FjoshRiley.webp?alt=media&token=3ba0c48a-3a95-43a6-b101-3bf1aabe661d",
+    "website": "https://riley.house.gov"
+  },
+  {
+    "OBJECTID": 20,
+    "district": 20,
+    "name": "Paul Tonko",
+    "office": "U.S. House of Representatives",
+    "party": "Democratic",
+    "phone": "(202) 225-5076",
+    "email": "https://tonko.house.gov/contact",
+    "distPhone": "(518) 465-0700",
+    "address": "2269 Rayburn House Office Building, Washington, DC 20515",
+    "nyOffice": {
+      "address": "19 Dove Street, Unit 302,Albany, NY 12210",
+      "phone": "(518) 465-0700",
+      "fax": "(518) 427-5107"
+    },
+    "nyOffice2": {
+      "address": "433 Broadway, Suite 201, Saratoga Springs, NY 12866",
+      "phone": "(518) 374-4547"
+    },
+    "dcOffice": {
+      "address": "2269 Rayburn House Office Building, Washington, DC 20515",
+      "phone": "(202) 225-5076",
+      "fax": "(202) 225-5077"
+    },
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/civic-1776.firebasestorage.app/o/images%2FpaulTonko.webp?alt=media&token=1b3394d5-0f44-4a14-bf0d-478c19530265",
+    "website": "https://tonko.house.gov"
+  },
+  {
+    "OBJECTID": 21,
+    "district": 21,
+    "name": "Elise Stefanik",
+    "office": "U.S. House of Representatives",
+    "party": "Republican",
+    "phone": "(202) 225-4611",
+    "email": "https://stefanik.house.gov/contact",
+    "distPhone": "(518) 242-4707",
+    "address": "2211 Rayburn House Office Building, Washington, DC 20515",
+    "nyOffice": {
+      "address": "137 Margaret Street, Suite 100, Plattsburgh, NY 12901",
+      "phone": "(518) 561-2324",
+      "fax": "(518) 561-2408"
+    },
+    "nyOffice2": {
+      "address": "330 Ford Street, Suite B8, Ogdensburg, NY 13669",
+      "phone": "(315) 541-2670"
+    },
+    "dcOffice": {
+      "address": "2211 Rayburn House Office Building, Washington, DC 20515",
+      "phone": "(202) 225-4611"
+    },
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/civic-1776.firebasestorage.app/o/images%2FeliseStefanik.webp?alt=media&token=c180834d-757e-4ec5-9049-15912ad7d02a",
+    "website": "https://stefanik.house.gov"
+  },
+  {
+    "OBJECTID": 22,
+    "district": 22,
+    "name": "John Mannion",
+    "office": "U.S. House of Representatives",
+    "party": "Democratic",
+    "phone": "(202) 225-3701",
+    "email": "https://mannion.house.gov/contact",
+    "distPhone": null,
+    "address": "1516 Longworth House Office Building, Washington, DC 20515",
+    "nyOffice": {
+      "address": "440 South Warren Street, Suite 706, Syracuse, NY  13202",
+      "phone": "(315) 233-4333"
+    },
+    "dcOffice": {
+      "address": "1516 Longworth House Office Building, Washington, DC 20515",
+      "phone": "(202) 225-3701"
+    },
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/civic-1776.firebasestorage.app/o/images%2FjohnMannion.webp?alt=media&token=cad2ae29-e395-44f1-b858-3e69a2404a4b",
+    "website": "https://mannion.house.gov"
+  },
+  {
+    "OBJECTID": 23,
+    "district": 23,
+    "name": "Nicholas A. Langworthy",
+    "office": "U.S. House of Representatives",
+    "party": "Republican",
+    "phone": "(202) 225-3161",
+    "email": "https://langworthy.house.gov/address_authentication?form=/contact",
+    "distPhone": "(607) 377-3130",
+    "address": "1630 Longworth House Office Building, Washington, DC 20515",
+    "nyOffice": {
+      "address": "The Fenton Building, 2-6 East Second Street, Room 208, Jamestown, NY  14701",
+      "phone": "(716) 488-8111"
+    },
+    "nyOffice2": {
+      "address": "1 Bluebird Square, Olean, NY  14760",
+      "phone": "(585) 543-5033"
+    },
+    "nyOffice3": {
+      "address": "89 W. Market Street, Corning, NY  14830",
+      "phone": "(607) 377-3130"
+    },
+    "nyOffice4": {
+      "address": "8201 Main Street, Suite 13, Williamsville, NY  14221",
+      "phone": "(716) 547-6844"
+    },
+    "dcOffice": {
+      "address": "1630 Longworth House Office Building, Washington, DC 20515",
+      "phone": "(202) 225-3161"
+    },
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/civic-1776.firebasestorage.app/o/images%2FnicholasALangworthy.webp?alt=media&token=27b7db6b-3cb8-4c91-a5f5-6f375a1c4384",
+    "website": "https://langworthy.house.gov/"
+  },
+  {
+    "OBJECTID": 24,
+    "district": 24,
+    "name": "Claudia Tenney",
+    "office": "U.S. House of Representatives",
+    "party": "Republican",
+    "phone": "(202) 225-3665",
+    "email": "https://tenney.house.gov/contact",
+    "distPhone": "(315) 236-7088",
+    "address": "2230 Rayburn House Office Building, Washington, DC 20515",
+    "nyOffice": {
+      "address": "317 Washington Street, Suite 418, Watertown, NY  13601",
+      "hours": "Tuesday 9:00 AM - 1:00 PM, by appointment only"
+    },
+    "nyOffice2": {
+      "address": "169 Niagara Street, Lockport, NY  14094",
+      "phone": "(716) 514-5130",
+      "hours": "Monday - Friday, 9:00 AM - 5:00 PM"
+    },
+    "nyOffice3": {
+      "address": "2375 Rochester Road, Suite 250, Canandaigua, NY  14424",
+      "phone": "(585) 869-2060",
+      "hours": "Monday - Friday, 9:00 AM - 5:00 PM"
+    },
+    "nyOffice4": {
+      "address": "46 E Bridge Street, Suite 102, Oswego, NY  13126",
+      "phone": "(315) 236-7088",
+      "hours": "Monday - Friday, 9:00 AM - 5:00 PM"
+    },
+    "dcOffice": {
+      "address": "2230 Rayburn House Office Building, Washington, DC 20515",
+      "phone": "(202) 225-3665",
+      "hours": "Monday - Friday, 9:00 AM - 5:00 PM"
+    },
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/civic-1776.firebasestorage.app/o/images%2FclaudiaTenney.webp?alt=media&token=b5e48f5c-14e5-484d-956c-83e95905d6ea",
+    "website": "https://tenney.house.gov"
+  },
+  {
+    "OBJECTID": 25,
+    "district": 25,
+    "name": "Joseph Morelle",
+    "office": "U.S. House of Representatives",
+    "party": "Democratic",
+    "phone": "(202) 225-3615",
+    "email": "https://morelleforms.house.gov/contact/?form=/contact/email-me",
+    "distPhone": "(585) 232-4850",
+    "address": "570 Cannon House Office Building, Washington, DC 20515",
+    "nyOffice": {
+      "address": "255 East Ave., Suite 150, Rochester, NY 14604",
+      "phone": "(771) 200-5554",
+      "fax": "(771) 200-5554"
+    },
+    "dcOffice": {
+      "address": "570 Cannon House Office Building, Washington, DC 20515",
+      "phone": "(202) 225-3615"
+    },
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/civic-1776.firebasestorage.app/o/images%2FjosephMorelle.webp?alt=media&token=56b8e069-4a5b-4590-b655-6d6de4b2d79e",
+    "website": "https://morelle.house.gov"
+  },
+  {
+    "OBJECTID": 26,
+    "district": 26,
+    "name": "Timothy M. Kennedy",
+    "office": "U.S. House of Representatives",
+    "party": "Democratic",
+    "phone": "(202) 225-3306",
+    "email": "https://kennedy.house.gov/contact",
+    "distPhone": "(716) 852-3501",
+    "address": "423 Cannon House Office Building, Washington, DC 20515",
+    "nyOffice": {
+      "address": "726 Exchange Street, Suite 601, Buffalo, NY 14210",
+      "phone": "(716) 852-3501",
+      "fax": "(716) 852-3929",
+      "hours": "Monday - Friday, 9:00 AM - 5:00 PM"
+    },
+    "nyOffice2": {
+      "address": "800 Main Street, Suite 3C, Niagara Falls, NY 14301",
+      "phone": "(716) 282-1274",
+      "fax": "(716) 282-2479",
+      "hours": "Monday - Friday, 9:00 AM - 5:00 PM"
+    },
+    "dcOffice": {
+      "address": "423 Cannon House Office Building, Washington, DC 20515",
+      "phone": "(202) 225-3306"
+    },
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/civic-1776.firebasestorage.app/o/images%2FtimothyMKennedy.webp?alt=media&token=b6c33163-531c-4d68-b2e1-4d31edcf2fbb",
+    "website": "https://kennedy.house.gov/"
+  }
+]

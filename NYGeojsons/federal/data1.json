@@ -1,0 +1,132 @@
+[
+    {
+        "name": "Nick LaLota",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nick_lalota_portrait.jpg/220px-Nick_lalota_portrait.jpg",
+        "Website": "https://lalota.house.gov"
+    },
+    {
+        "name": "Andrew Garbarino",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Andrew_Garbarino_117th_U.S_Congress.jpg/220px-Andrew_Garbarino_117th_U.S_Congress.jpg",
+        "Website": "https://garbarino.house.gov"
+    },
+    {
+        "name": "Tom Suozzi",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/TomSuozzi118thCongress.jpg/220px-TomSuozzi118thCongress.jpg",
+        "Website": "https://suozzi.house.gov"
+    },
+    {
+        "name": "Laura Gillen",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Gillen_Laura_119th_Congress_%28cropped2%29.jpg/220px-Gillen_Laura_119th_Congress_%28cropped2%29.jpg",
+        "Website": "https://gillen.house.gov"
+    },
+    {
+        "name": "Gregory Meeks",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Gregory_Meeks%2C_official_portrait%2C_115th_congress_%283x4_cropped%29.jpg/220px-Gregory_Meeks%2C_official_portrait%2C_115th_congress_%283x4_cropped%29.jpg",
+        "Website": "https://meeks.house.gov"
+    },
+    {
+        "name": "Grace Meng",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Grace_Meng_Official_Congressional_Photo.jpg/220px-Grace_Meng_Official_Congressional_Photo.jpg",
+        "Website": "https://meng.house.gov"
+    },
+    {
+        "name": "Nydia Velázquez",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Nydia_Vel%C3%A1zquez_official_portrait.jpg/220px-Nydia_Vel%C3%A1zquez_official_portrait.jpg",
+        "Website": "https://velazquez.house.gov"
+    },
+    {
+        "name": "Hakeem Jeffries",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Rep-Hakeem-Jeffries-Official-Portrait_%28cropped%29.jpg/220px-Rep-Hakeem-Jeffries-Official-Portrait_%28cropped%29.jpg",
+        "Website": "https://jeffries.house.gov"
+    },
+    {
+        "name": "Yvette Clarke",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Yvette_Clarke_official_photo.jpg/220px-Yvette_Clarke_official_photo.jpg",
+        "Website": "https://clarke.house.gov"
+    },
+    {
+        "name": "Dan Goldman",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Daniel_Goldman_Portrait.jpg/220px-Daniel_Goldman_Portrait.jpg",
+        "Website": "https://goldman.house.gov"
+    },
+    {
+        "name": "Nicole Malliotakis",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Congresswoman_Nicole_Malliotakis.jpg/220px-Congresswoman_Nicole_Malliotakis.jpg",
+        "Website": "https://malliotakis.house.gov"
+    },
+    {
+        "name": "Jerry Nadler",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Jerry_Nadler_116th_Congress_official_portrait_%28cropped%29.jpg/220px-Jerry_Nadler_116th_Congress_official_portrait_%28cropped%29.jpg",
+        "Website": "https://nadler.house.gov"
+    },
+    {
+        "name": "Adriano Espaillat",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Rep._Adriano_Espaillat_117th_Official_Photo.jpg/220px-Rep._Adriano_Espaillat_117th_Official_Photo.jpg",
+        "Website": "https://espaillat.house.gov"
+    },
+    {
+        "name": "Alexandria Ocasio-Cortez",
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Alexandria_Ocasio-Cortez_Official_Portrait.jpg/220px-Alexandria_Ocasio-Cortez_Official_Portrait.jpg",
+        "Website": "https://ocasio-cortez.house.gov"
+    },
+    {
+        "name": "Ritchie Torres",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Ritchie_Torres_117th_U.S_Congress.jpg/220px-Ritchie_Torres_117th_U.S_Congress.jpg",
+        "Website": "https://torres.house.gov"
+    },
+    {
+        "name": "George Latimer",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Latimer_George_119th_Congress_2.jpg/220px-Latimer_George_119th_Congress_2.jpg",
+        "Website": "https://latimer.house.gov"
+    },
+    {
+        "name": "Mike Lawler",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Rep._Mike_Lawler_official_photo.jpg/220px-Rep._Mike_Lawler_official_photo.jpg",
+        "Website": "https://lawler.house.gov"
+    },
+    {
+        "name": "Pat Ryan",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Pat_Ryan_117th_Congress_portrait.jpeg/220px-Pat_Ryan_117th_Congress_portrait.jpeg",
+        "Website": "https://ryan.house.gov"
+    },
+    {
+        "name": "Josh Riley",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Rep._Josh_Riley_official_photo%2C_119th_Congress.jpg/220px-Rep._Josh_Riley_official_photo%2C_119th_Congress.jpg",
+        "Website": "https://riley.house.gov"
+    },
+    {
+        "name": "Paul Tonko",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Paul_Tonko_118th_Congress.jpeg/220px-Paul_Tonko_118th_Congress.jpeg",
+        "Website": "https://tonko.house.gov"
+    },
+    {
+        "name": "Elise Stefanik",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Elise_Stefanik%2C_115th_official_photo.jpg/220px-Elise_Stefanik%2C_115th_official_photo.jpg",
+        "Website": "https://stefanik.house.gov"
+    },
+    {
+        "name": "John Mannion",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Mannion_John_119th_Congress.jpg/220px-Mannion_John_119th_Congress.jpg",
+        "Website": "https://mannion.house.gov"
+    },
+    {
+        "name": "Nick Langworthy",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Rep._Langworthy_Headshot_118.jpeg/220px-Rep._Langworthy_Headshot_118.jpeg",
+        "Website": "https://langworthy.house.gov"
+    },
+    {
+        "name": "Claudia Tenney",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Rep._Claudia_Tenney_official_congressional_photo.jpg/220px-Rep._Claudia_Tenney_official_congressional_photo.jpg",
+        "Website": "https://tenney.house.gov"
+    },
+    {
+        "name": "Joseph Morelle",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Joe_Morelle_118th_Congress.jpeg/220px-Joe_Morelle_118th_Congress.jpeg",
+        "Website": "https://morelle.house.gov"
+    },
+    {
+        "name": "Tim Kennedy",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Rep._Tim_Kennedy%27s_Official_Portrait.jpg/220px-Rep._Tim_Kennedy%27s_Official_Portrait.jpg",
+        "Website": "https://kennedy.house.gov"
+    }
+]

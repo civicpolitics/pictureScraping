@@ -1,0 +1,206 @@
+[
+  {
+    "OBJECTID": 1,
+    "district": "1",
+    "census_area": 380.3,
+    "name": "Donald Norcross",
+    "Party": "Democratic",
+    "nj_office": {
+      "address": "10 Melrose Avenue, Suite 210, Cherry Hill, NJ 08003",
+      "phone": "(856) 427-7000"
+    },
+    "dc_office": {
+      "address": "2427 Rayburn House Office Building, Washington, DC 20515",
+      "phone": "(202) 225-6501"
+    },
+    "CDFP": "1",
+    "GlobalID": "eb2db6a6-b940-4778-8c58-d973259b64f5"
+  },
+  {
+    "OBJECTID": 2,
+    "district": "10",
+    "census_area": 80.01,
+    "name": "Lamonica McIver",
+    "party": "Democratic",
+    "nj_office": {
+      "address": "60 Nelson Place, 14th Floor, LeRoy F. Smith, Jr. Public Saftey Building, Newark, NJ 07102",
+      "phone": "(973) 645-3213"
+    },
+    "dc_office": {
+      "address": "426 Cannon House Office Building, Washington, DC 20515",
+      "phone": "(202) 225-3436"
+    },
+    "CDFP": "10",
+    "GlobalID": "0497f04f-be10-4bbd-b733-6a1673ccec85"
+  },
+  {
+    "OBJECTID": 3,
+    "district": "11",
+    "census_area": 412.44,
+    "name": "Mikie Sherrill",
+    "party": "Democratic",
+    "nj_office": {
+      "address": "8 Wood Hollow Road, Parsippany, NJ 07054",
+      "phone": "(973) 526-5668"
+    },
+    "dc_office": {
+      "address": "1414 Longworth House Office Building, Washington, DC 20515",
+      "phone": "(202) 225-5034"
+    },
+    "CDFP": "11",
+    "GlobalID": "fd043380-a465-4330-8df5-723435710275"
+  },
+  {
+    "OBJECTID": 4,
+    "district": "12",
+    "census_area": 445.71,
+    "name": "Bonnie Watson Coleman",
+    "party": "Democratic",
+    "nj_office": {
+      "address": "850 Bear Tavern Road, Suite 201, Ewing, NJ 08628",
+      "phone": "(609) 883-0026"
+    },
+    "dc_office": {
+      "address": "168 Cannon House Office Building, Washington, DC 20515",
+      "phone": "(202) 225-5801"
+    },
+    "CDFP": "12",
+    "GlobalID": "33bbb12b-bf43-4655-a1ea-c02d418b9cf9"
+  },
+  {
+    "OBJECTID": 5,
+    "district": "2",
+    "census_area": 2966.28,
+    "name": "Jefferson Van Drew",
+    "party": "Republican",
+    "nj_office": {
+      "address": "5914 Main Street, Suite 103, Mays Landing, NJ 08330",
+      "phone": "(609) 625-5008"
+    },
+    "dc_office": {
+      "address": "2447 Rayburn House Office Building, Washington, DC",
+      "phone": "(202) 225-6572"
+    },
+    "CDFP": "2",
+    "GlobalID": "e071b6f6-3c99-40f1-9a85-8aa5bef48b66"
+  },
+  {
+    "OBJECTID": 6,
+    "district": "3",
+    "census_area": 1104.31,
+    "name": "Herbert Conaway",
+    "party": "Democratic",
+    "nj_office": {
+      "address": "4573 South Broad Street, Trenton, NJ 08620",
+      "phone": "(609) 438-6290"
+    },
+    "dc_office": {
+      "address": "1022 Longworth House Office Building, Washington, DC",
+      "phone": "(202) 225-4765"
+    },
+    "CDFP": "3",
+    "GlobalID": "237ee399-be9c-4b04-8582-e5667e23862e"
+  },
+  {
+    "OBJECTID": 7,
+    "district": "4",
+    "census_area": 702.31,
+    "name": "Christopher H. Smith",
+    "party": "Republican",
+    "nj_office": {
+      "address": "112 Village Center Dr., Second Floor, Freehold, NJ 07728",
+      "phone": "(732) 780-3035"
+    },
+    "dc_office": {
+      "address": "2373 Rayburn House Office Building, Washington, DC",
+      "phone": "(202) 225-3765"
+    },
+    "CDFP": "4",
+    "GlobalID": "69157ec0-e1a7-471f-a3f7-afee2ce263db"
+  },
+  {
+    "OBJECTID": 8,
+    "district": "5",
+    "census_area": 677.75,
+    "name": "Josh Gottheimer",
+    "party": "Democratic",
+    "nj_office": {
+      "address": "65 Harrisontown Road, Suite 104, Glen Rock, NJ 07452",
+      "phone": "(201) 389-1100"
+    },
+    "dc_office": {
+      "address": "106 Cannon House Office Building, Washington, DC 20515",
+      "phone": "(202) 225-4465"
+    },
+    "CDFP": "5",
+    "GlobalID": "b567ba1f-a1d0-4da6-b408-7643bdae9ece"
+  },
+  {
+    "OBJECTID": 9,
+    "district": "6",
+    "census_area": 386,
+    "name": "Frank Pallone, Jr.",
+    "party": "Democratic",
+    "nj_office": {
+      "address": "504 Broadway, Long Branch, NJ 07740",
+      "phone": "(732) 571-1140"
+    },
+    "dc_office": {
+      "address": "2107 Rayburn House Office Building, Washington, DC 20515",
+      "phone": "(202) 225-4671"
+    },
+    "CDFP": "6",
+    "GlobalID": "6a7312dd-0532-434f-b518-7ee1c68bf4f6"
+  },
+  {
+    "OBJECTID": 10,
+    "district": "7",
+    "census_area": 1377.85,
+    "name": "Thomas Kean, Jr.",
+    "party": "Republican",
+    "nj_office": {
+      "address": "100 Corporate Drive, Suite 106 Lebanon, NJ 08833",
+      "phone": "(908) 547-3307"
+    },
+    "dc_office": {
+      "address": "251 Cannon House Office Building, Washington, DC 20515",
+      "phone": "(202) 225-5361"
+    },
+    "CDFP": "7",
+    "GlobalID": "0e7cc5c8-a112-47f5-ad29-f5ec4851458a"
+  },
+  {
+    "OBJECTID": 11,
+    "district": "8",
+    "census_area": 66.79,
+    "name": "Robert Menendez",
+    "party": "Democratic",
+    "nj_office": {
+      "address": "257 Cornelison Avenue, Suite 4408 Jersey City, NJ  07302",
+      "phone": "(201) 309-0301"
+    },
+    "dc_office": {
+      "address": "2453 Rayburn House Office Building Washington, DC  20515",
+      "phone": "(202) 225-7919"
+    },
+    "CDFP": "8",
+    "GlobalID": "01d6369c-a299-4699-bc24-9d91310dac9e"
+  },
+  {
+    "OBJECTID": 12,
+    "district": "9",
+    "census_area": 117.72,
+    "name": "Nellie Pou",
+    "party": "Democratic",
+    "nj_office": {
+      "address": "100 Hamilton Plaza, Suite 1400, Paterson, NJ 07505",
+      "phone": "(973) 523-5152"
+    },
+    "dc_office": {
+      "address": "1007 Longworth House Office Building, Washington, DC 20515",
+      "phone": "(202) 225-5751"
+    },
+    "CDFP": "9",
+    "GlobalID": "9e96814c-9012-4c4c-bc14-c5c3a4eaec9f"
+  }
+]
